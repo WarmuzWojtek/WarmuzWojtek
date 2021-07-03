@@ -3,10 +3,10 @@
 
 ## I'm a husband, father, motor vehicle damage expert, musician and beginner developer!!
 
-- 🌱 I’m currently learning Frontend technologies on CodersCamp (www.coderscamp.edu.pl)
-- 👯 I’m looking to collaborate with other beginner developers
-- 🥅 2021 Goals: Increase development skills.
-- ⚡ I love football and punk-rock music!
+- 🌱 I’m currently learning : Next.js
+- 👯 I’m looking to: collaborate with other beginner developers
+- 🥅 2021 Goals: Increase development skills. Learn Gatby, any headless CMS, Nest JS. Create/upgrade/refactor projects for my portfolio.
+- ⚡ I love: football and punk-rock music!
 
 ### Languages and Tools:
 
@@ -19,3 +19,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br />
+
+### Courses:
+
+![Certyfikat](https://user-images.githubusercontent.com/65849475/124355246-737b9b00-dc10-11eb-9fc2-45b030c4753a.jpg)
+
+
+
+
